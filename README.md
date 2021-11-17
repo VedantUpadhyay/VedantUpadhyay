@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VedantUpadhyay
-- 👀 I’m interested in ... ASP.NET Core, JavaScript, Microsoft SQL Server
-- 🌱 I’m currently learning ... Full Stack Development using MERN.
-- 💞️ I’m looking to collaborate on ... ASP.NET Core with Dapper as ORM
+- 👀 I’m interested in ... ASP.NET Core, JavaScript, SQL.
+- 🌱 I’m currently learning ... Full Stack Development using MERN, Machine Learning.
+- 💞️ Currently, I’m looking to collaborate with someone on Full stack development with ASP.NET, Machine Learning.
 - 📫 How to reach me ... @LinkedIn - https://www.linkedin.com/in/vedant-upadhyay-3b2a01206/
 
 
